@@ -1,0 +1,31 @@
+# Dependencias instaladas con npm
+/node_modules
+
+# Archivos de configuración
+.env
+
+# Archivos de registro
+logs
+*.log
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.swp
+
+# Archivos de caché
+.cache
+*.cache
+*.css.map
+*.js.map
+
+# Archivos de compilación
+dist
+build
+
+# Archivos de pruebas
+coverage
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
