@@ -4,7 +4,7 @@ This is a simple API built with Express and MySQL that allows you to create new 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/express-mysql-api.git`
+1. Clone the repository: `git clone https://github.com/Cc3sar/ejemplo-crud-javascript-api.git`
 2. Install dependencies: `npm install`
 3. Create a MySQL database and update the `src/database/db.js` file with your database credentials.
 4. Start the server: `npm start`
